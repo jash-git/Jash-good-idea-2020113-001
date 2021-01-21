@@ -1,0 +1,5 @@
+(function(g){with(g){var r=10,a={sAE:'b1794792344',sIMD:3,sIM:[],sIMC:[],sIMH:[],eREF:'DGcjyk6En+8VJVGgb04TKk5dOAqX+kTTkJqzB/5agHI='},afa=[{p:'',ct:'//js1.bloggerads.net/Click/-694674580.BUDS0xhq/0/20180628000004/0/63746820225/0/1',at:4,as:3,aid:'0',ei:'',es:'',eat:'0',itd:0,purl:'//js1.bloggerads.net/ucFunnelImpression/-694674580.BUDS0xhq/20180628000004/63746820225/1?Referer=http%3a%2f%2fjashliao.eu%2f',oim:''}],afaH=[],afaC=[],c=function(){if(typeof(BA_FUNC_EXTENTION)!='undefined'){BA_FUNC_EXTENTION.eXT(g);g.dEC(a,function(an){g[an]=this;});rA(afa);setTimeout(function()
+{sIA();if(afaH.length>0)
+rAH(afaH);if(afaC.length>0)
+rAC(afaC);UpdateArticle(afa,afaH,afaC);if(window.addEventListener){window.addEventListener('scroll',detectLazyLoad);window.addEventListener('resize',detectLazyLoad);setTimeout(function(){detectLazyLoad();},300);}},2000);}
+else if(r-->0){setTimeout(function(){c();},300);}};c();}})(window['b1794792344']);
